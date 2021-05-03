@@ -1,3 +1,3 @@
 # portfolio
 
-link https://shahriyarabrarhimel.github.io/portfolio/🔗 
+link https://shahriyarabrarhimel.github.io/portfolio/
