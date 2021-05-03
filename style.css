@@ -30,6 +30,8 @@ div.half-width img{
 }
 section{
      height:500px;
+      background-repeat: none;
+      padding-bottom:150px;
 }
 
 a.link{
@@ -40,4 +42,8 @@ padding:10px 20px;
 border-radius:10px;
 background-image: linear-gradient(45deg, lightsalmon,tomato);
 
+}
+section.top-banner{
+    
+   
 }
