@@ -1,11 +1,22 @@
 body{
- font-family: 'Dancing Script', cursive;
+font-family: 'Kaushan Script', cursive;
 }
 
 h1{
     font-size:50px;
+    font-family: 'Dancing Script', cursive;
 
 }
 span.name-highlight{
 color:rgb(255, 166, 1);
+font-family: 'Dancing Script', cursive;
+}
+div.half-width{
+    width:40%;
+    float:left;
+    margin-left:5%;
+    padding-left:2%;
+}
+div.half-width img{
+    width:80%;
 }
